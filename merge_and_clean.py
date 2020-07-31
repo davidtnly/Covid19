@@ -62,6 +62,9 @@ def save_files(df, filename):
     df.to_csv(filename, index=False)
 
 def run_all():
+    """
+    Run, Merge, & Save Final Output
+    """
 
     # Run merge_files() and clean_files()
     unclean_df = merge_files()
