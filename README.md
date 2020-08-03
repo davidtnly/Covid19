@@ -26,9 +26,9 @@ ________________________________________________________________________________
 
 2. Create a "Merge" folder to store in all new data that will be combined together
 
-3. Run this script to delete any old files and add new ones to the "Merge" folder ```py import_new_files.py``` (For new users, need to update paths in the script based on user)
+3. Run ```py import_new_files.py``` to delete any old files and add new ones to the "Merge" folder  (For new users, need to update paths in the script based on user)
 
-4. Run this script to automate the cleaning and merge process ```py merge_and_clean.py``` (For new users, need to update paths in the script based on user)
+4. Run ```py merge_and_clean.py``` to automate the cleaning and merge process  (For new users, need to update paths in the script based on user)
 
 5. Add the newly cleaned data to the master CSV file (2019_nCoV_data.csv)
 
@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 ### Previous Setup
 
-When COVID-19 was newer and unknown, the data was a lot messier and inconclusive. I had to manually research for newer data like geolocations, confirmed cases, dates, country capitals to fill in any missing cities/provinces and more. This process has been simplified a lot thansk to JHU and their team. As of July 2020, I am using their their data with some additions to my excel formulas to fill in blanks. 
+When COVID-19 was newer and unknown, the data was a lot messier and inconclusive. I had to manually research for newer data like geolocations, confirmed cases, dates, country capitals to fill in any missing cities/provinces and more. This process has been simplified a lot thanks to JHU and their team. As of July 2020, I am using their data with some additions to my excel formulas to fill in blanks. 
 
 Some other data gathering steps included:
 
