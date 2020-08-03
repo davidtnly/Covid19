@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Personal project that I started working on late January 2020. I created the initial Tableau dashboard and published it on my [Tableau Public Gallery](https://public.tableau.com/profile/david.ly#!/vizhome/2019-nCoVGlobalCasesWuhan/Dashboard). This dashboard was updated on a daily basis up until April 10, 2020. From Jan - Apr 10, the dashboard has gained about 40,000 views. I am going to attempt to update the data on a weekly or monthly basis now after creating an automated process using Python. 
+This was a personal project that I was interested in since it was a new dataset that was part of the health/medical area. I started working on late January 2020 and created the initial Tableau dashboard and published it on my [Tableau Public Gallery](https://public.tableau.com/profile/david.ly#!/vizhome/2019-nCoVGlobalCasesWuhan/Dashboard). This dashboard was updated on a daily basis up until April 10, 2020. From Jan - Apr 10, the dashboard has gained about 40,000 views.
 
 ### Background
 
@@ -11,6 +11,8 @@ The World Health Organization has declared the epidemic an international public 
 Coronaviruses are a large family of viruses that cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS). COVID-19 is a new strain of coronavirus that has not been previously identified in humans.
 
 ### Data and Methods
+
+I am going to attempt to update the data on a weekly or monthly basis now after creating an automated process using Python. 
 
 JHU CSSE
 - https://github.com/CSSEGISandData/COVID-19
