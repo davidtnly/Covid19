@@ -1,6 +1,5 @@
 # Ignore these files
 .ipynb_checkpoints
-*/.ipynb_checkpoints/*
 .idea
 *.h5
 *.json
